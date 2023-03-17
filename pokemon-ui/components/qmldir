@@ -1,0 +1,3 @@
+module components
+InputForm 1.0 InputForm.qml
+WindowControls 1.0 WindowControls.qml

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/components">
+        <file alias="InputForm.qml">components/InputForm.qml</file>
+        <file alias="WindowControls.qml">components/WindowControls.qml</file>
+        <file alias="qmldir">components/qmldir</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

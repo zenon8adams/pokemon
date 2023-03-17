@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="Style.qml">assets/Style.qml</file>
+        <file alias="qmldir">assets/qmldir</file>
+        <file>loader.qml</file>
+
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="ColonnaMT">assets/fonts/ColonnaMT.ttf</file>
+        <file alias="FontAwesome-Brands">assets/fonts/fa-brands-400.ttf</file>
+        <file alias="FontAwesome-Regular">assets/fonts/fa-regular-400.ttf</file>
+        <file alias="FontAwesome-Solid">assets/fonts/fa-solid-900.ttf</file>
+        <file alias="MonotypeCorsiva">assets/fonts/MonotypeCorsiva-Regular.ttf</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="loading">assets/Images/loading.png</file>
+        <file alias="pokemon">assets/Images/pokemon.png</file>
+        <file alias="background">assets/Images/Background.jpg</file>
+    </qresource>
+</RCC>

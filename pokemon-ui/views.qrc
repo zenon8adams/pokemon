@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/views">
+        <file alias="DetailWindow.qml">views/DetailWindow.qml</file>
+        <file alias="MainWindow.qml">views/MainWindow.qml</file>
+        <file>Loader.qml</file>
+        <file>qmldir</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Shapes.qml</file>
+    </qresource>
+</RCC>
